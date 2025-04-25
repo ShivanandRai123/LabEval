@@ -1,7 +1,7 @@
 # square.py
 # Updated on Github
 def calculate_square():
-    number = 5
+    number = 6 #changed from 5
     result = number ** 2
     print(f"The square of {number} is {result}")
 
