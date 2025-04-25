@@ -1,4 +1,5 @@
 # square.py
+# Updated on Github
 def calculate_square():
     number = 5
     result = number ** 2
